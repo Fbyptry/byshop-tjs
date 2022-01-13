@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1",
+    "title": "Celana",
+    "image": "img/product2/feby.jpg",
+    "additionalImages": [
+      "img/products/kemeja1.jpg",
+      "img/products/kemeja1.jpg"
+    ],
+    "description": "jins kulot",
+    "price": 130
+  },
+  {
+    "id": "2",
+    "title": "jam cowk",
+    "image": "img/product2/jm cwk3.jpg",
+    "additionalImages": [
+      "img/products/kemeja2.jfif",
+      "img/products/kemeja2.jfif"
+    ],
+    "description": "jam cwok",
+    "price": 100
+  },
+  {
+    "id": "2",
+    "title": "kulot pit",
+    "image": "img/product2/kulot pit.jpg",
+    "additionalImages": [
+      "img/products/kemeja2.jfif",
+      "img/products/kemeja2.jfif"
+    ],
+    "description": "kulot pit",
+    "price": 90
+  },
+  {
+    "id": "4",
+    "title": "jam cewek",
+    "image": "img/product2/jm cwek2.jpg",
+    "additionalImages": [
+      "img/products/kemeja4.jpg",
+      "img/products/kemeja4.jpg"
+    ],
+    "description": "jam cewek",
+    "price": 40
+  },
+  {
+    "id": "4",
+    "title": "sweater cwek/cwok",
+    "image": "img/product2/hoodie.jpg",
+    "additionalImages": ["img/products/kaos1.jfif", "img/products/kaos1.jfif"],
+    "description": "sweater",
+    "price": 95
+  },
+  {
+    "id": "4",
+    "title": "sepatu",
+    "image": "img/product2/crvs dek.jpg",
+    "additionalImages": ["img/products/kaos2.jfif", "img/products/kaos2.jfif"],
+    "description": "crvs dek",
+    "price": 34.99
+  },
+  {
+    "id": "4",
+    "title": "sandal",
+    "image": "img/product2/sndal6.jpg",
+    "additionalImages": ["img/products/kaos3.jfif", "img/products/kaos3.jpg"],
+    "description": "sandal cwek kece",
+    "price": 80
+  },
+  {
+    "id": "4",
+    "title": "outer balon flanel",
+    "image": "img/product2/planel.jpg",
+    "additionalImages": ["img/products/kaos4.jfif", "img/products/kaos4.jfif"],
+    "description": "outer flanel",
+    "price": 95
+  }
+]
